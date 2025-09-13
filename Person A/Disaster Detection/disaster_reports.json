@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-09-13T03:19:06.328371",
+    "disaster_type": "earthquake/building collapse",
+    "confidence": 0.9297397136688232,
+    "risk_level": "high",
+    "detected_features": [
+      "Building-related: church, church building (0.6%)",
+      "Damage indicator: wreck (93.0%)"
+    ],
+    "location": {
+      "latitude": 13.114721780115785,
+      "longitude": 77.63451540018,
+      "address": "REVA University, Bellahalli Main Road, Bengaluru North City Corporation, Bengaluru, Yelahanka taluku, Bengaluru Urban, Karnataka, 562149, India"
+    },
+    "filename": "earth.jpg"
+  },
+  {
+    "timestamp": "2025-09-13T03:26:23.397595",
+    "disaster_type": "flood",
+    "confidence": 0.7315985299646854,
+    "risk_level": "high",
+    "detected_features": [
+      "Building-related: boathouse (1.5%)",
+      "Water/flooding detected (73.2%)"
+    ],
+    "location": {
+      "latitude": 13.114746523935565,
+      "longitude": 77.63456834489213,
+      "address": "REVA University, Bellahalli Main Road, Bengaluru North City Corporation, Bengaluru, Yelahanka taluku, Bengaluru Urban, Karnataka, 562149, India"
+    },
+    "filename": "Flooding1400.webp"
+  },
+  {
+    "timestamp": "2025-09-13T05:39:18.773134",
+    "disaster_type": "fire",
+    "confidence": 0.999555766582489,
+    "risk_level": "high",
+    "detected_features": [
+      "Fire detected (100.0%)"
+    ],
+    "location": {
+      "latitude": 13.114754392925946,
+      "longitude": 77.63455528448237,
+      "address": "REVA University, Bellahalli Main Road, Bengaluru North City Corporation, Bengaluru, Yelahanka taluku, Bengaluru Urban, Karnataka, 562149, India"
+    },
+    "filename": "fire.jpeg"
+  }
+]
